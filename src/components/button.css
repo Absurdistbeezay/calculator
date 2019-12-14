@@ -1,0 +1,34 @@
+.btn {
+    width: 2em;
+    height: 2em;
+    border-radius: 0.2em;
+    background-color: #DFDAE5;
+    margin-top: 0.1em;
+    font-size: 4em;
+    font-weight: bolder;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-red {
+    background-color: #ef1919;
+    color: #fff;
+}
+
+.btn-green {
+    background-color: #1fb448;
+    color: #fff;
+}
+
+.btn-yellow {
+    background-color: #c7cb04;
+    color: #fff;
+}
+
+.buttons-panel {
+    display: flex;
+    flex-direction: column;
+}

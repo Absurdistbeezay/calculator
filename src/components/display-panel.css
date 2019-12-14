@@ -1,0 +1,12 @@
+.display-panel {
+    height: 1em;
+    margin: auto;
+    width: 94%;
+    background-color: #fff;
+    font-size: 5em;
+    border-radius: 0.25em;
+    padding: 0.25em 0.15em;
+    text-align: right;
+    font-weight: bolder;
+    color: rgba(0, 0, 0, 0.55);
+}
